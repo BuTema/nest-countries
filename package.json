@@ -1,7 +1,7 @@
 {
   "name": "nest-countries",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a NestJS-based project that provides APIs for managing user calendars and retrieving country-related information. The project fetches public holidays from an external API and allows users to store them in their calendar",
   "author": "BuTema",
   "private": true,
   "scripts": {
